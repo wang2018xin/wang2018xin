@@ -17,10 +17,10 @@
 - 熟练掌握Linux命令
 - 性能优化（缓存）、模块化等
 - web安全 (sql注入、xss脚本攻击、csrf请求伪造、应用层dos拒绝服务、文件路径漏洞等等)
-- 精通Ajax、json、xml
+- ~~精通Ajax、json、xml~~
 - 掌握Http协议，熟悉Koa, Express等概念以及相关WEB开发框架，了解异步模式、事件循环
 - 跨浏览器、跨终端的开发
-- 数量使用Git/SVN版本管理
+- ~~熟练使用Git/SVN版本管理~~
 - Vue
 - Angular
 - 数据库（如 mysql、mongo）
